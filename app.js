@@ -72,4 +72,19 @@ io.sockets.on('connection',function(socket) {
 		//console.log('Socket requested configuration. Will send this data: ' + JSON.stringify(roomData[data]) + ' For room ' + data);
 		//sendConfiguration(socket,data);
 	});
+
+	socket.on('drive', function(data) { 
+		console.log('Driving. Direction: ' + data.direction + " Speed: " + data.speed); 
+	});
+
+	socket.on('rotateDome', function(data) { 
+		console.log('Rotating Dome...Value: ' + data.value); 
+	});
+
+	socket.on('playSound', function(data) { 
+		console.log('Playing Sound: ' + data.name); 
+	});
+
+
+
 });
