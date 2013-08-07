@@ -23,6 +23,16 @@ The project has a secondary goal to provide software-only solutions wherever pos
 * Define a standardized "driver" protocol for future expandability (eg: different lighting systems could be controlled by a standardized set of commands.) 
 * Provide a protocol for droid "self-description". This will allow controllers to query a droid for its supported devices, systems and sounds. 
 
+
+### Diagrams
+
+#### Astromesh Architecture
+![](./astromesh_architecture.png)
+
+#### Astromesh Protocol Diagram
+![](./astromesh_protocol_diagram.png)
+
+
 ### Current Project Status
 2013-08: Project intiated. Overview documentation created. Controller API mostly defined. Stubs of some controller functions added. 
 
