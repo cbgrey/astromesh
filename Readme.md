@@ -1,11 +1,11 @@
 
-_getConfig_
+## getConfig
 
      { value:null }
 Initiates a request to get the current droid control configuration. Droid will return a “configuration” event. There is no data value. 
 
 
-_drive_
+## drive
 
      {
           “direction”:int,
