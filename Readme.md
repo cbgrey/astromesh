@@ -1,25 +1,25 @@
 
-getConfig
+_getConfig_
 
-{ value:null }
+     { value:null }
 Initiates a request to get the current droid control configuration. Droid will return a “configuration” event. There is no data value. 
 
 
-drive
+_drive_
 
-{
-     “direction”:int,
-      “velocity”: int
-}
+     {
+          “direction”:int,
+           “velocity”: int
+     }
 
 Direction and Velocity are each values between -255 and +255. These values will be translated by the droid into Left/Right foot motor pulse values. 
 
 rotateDome
 
 
-{
-     “value”:int
-}
+     {
+          “value”:int
+     }
 
 Rotates the dome. Value of -255 to +255 will change direction and speed. 
 
