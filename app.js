@@ -16,7 +16,7 @@ var express = require('express')
 var clients = {};
 
 
-server.listen(7777)  ;
+server.listen(7777,"0.0.0.0")  ;
 console.log('Server running at http://127.0.0.1:7777/');
 
 app.configure(function(){
@@ -38,11 +38,17 @@ app.configure('development', function(){
 app.get('/', routes.index);
 app.get('/users', user.list); 
 
+
+// TODO: Should this be the main interval loop of a short time
+// like 100ms and then trigger different events at different time
+// periods. ping at 1 second. check for heartbeat at 500ms etc. 
 setInterval(function() {
-		console.log('[Sending PING.]');
-		io.sockets.emit('ping',{text:'PING'});
+		ts =  Math.round(new Date().getTime() / 1000);
+		console.log('[Sending PING. ' +  ts + ' ]');
+
+		io.sockets.emit('ping',ts);
 			
-	},6000); 
+	},500); 
 
 
 
@@ -74,12 +80,13 @@ io.sockets.on('connection',function(socket) {
 	});
 
 	socket.on('drive', function(data) { 
-		console.log('Driving. Direction: ' + data.direction + " Speed: " + data.speed); 
+		console.log('---> DRIVING. Direction: ' + data.direction + " Speed: " + data.speed); 
 	});
 
-	socket.on('rotateDome', function(data) { 
-		console.log('Rotating Dome...Value: ' + data.value); 
+	socket.on('dome', function(data) { 
+		console.log('---> DOME ROTATING. Direction: ' + data.direction); 
 	});
+
 
 	socket.on('playSound', function(data) { 
 		console.log('Playing Sound: ' + data.name); 
