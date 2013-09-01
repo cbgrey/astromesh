@@ -44,7 +44,7 @@ app.get('/users', user.list);
 // periods. ping at 1 second. check for heartbeat at 500ms etc. 
 setInterval(function() {
 		ts =  Math.round(new Date().getTime() / 1000);
-		console.log('[Sending PING. ' +  ts + ' ]');
+		console.log('[Sending PING. ' +  ts + ' ]' + '[ ' + clients.length + ' clients connected.]');
 
 		io.sockets.emit('ping',ts);
 			
