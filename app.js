@@ -14,6 +14,7 @@ var express = require('express')
 
 
 var clients = {};
+var connectCounter = 0;
 
 
 server.listen(7777,"0.0.0.0")  ;
@@ -44,7 +45,7 @@ app.get('/users', user.list);
 // periods. ping at 1 second. check for heartbeat at 500ms etc. 
 setInterval(function() {
 		ts =  Math.round(new Date().getTime() / 1000);
-		console.log('[Sending PING. ' +  ts + ' ]' + '[ ' + clients.length + ' clients connected.]');
+		console.log('[Sending PING. ' +  ts + ' ]' + '[ ' + connectCounter + ' clients connected.]');
 
 		io.sockets.emit('ping',ts);
 			
@@ -56,6 +57,7 @@ setInterval(function() {
 io.sockets.on('connection',function(socket) {
 	console.log('Connection Received. Socket ID: ' + socket.id);
 	clients[socket.id] = socket;
+	connectCounter++;
 	
 	socket.on('pong',function(data) {
 		console.log('[Received PONG.]');
@@ -91,6 +93,11 @@ io.sockets.on('connection',function(socket) {
 	socket.on('playSound', function(data) { 
 		console.log('Playing Sound: ' + data.name); 
 	});
+
+
+	socket.on('disconnect', function () {
+        connectCounter--;
+    });
 
 
 
