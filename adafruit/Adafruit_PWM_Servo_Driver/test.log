@@ -1,0 +1,1497 @@
+INFO:root:Starting Log file.
+INFO:root:Looping....
+INFO:root:Starting Log file.
+INFO:root:Looping....
+INFO:root:Starting Log file.
+INFO:root:Looping....
+DEBUG:root:This is the line: drive:75:100
+
+DEBUG:root:We got command: drive
+DEBUG:root:We got a drive command: rawX:100.000000 and rawY:75.000000
+DEBUG:root:Forward to the Right
+DEBUG:root:Left=-75.000000 Right=-25.000000
+DEBUG:root:ScaledLeft: 206.250000 ScaledRight: 318.750000
+INFO:root:Starting Log file.
+INFO:root:Looping....
+DEBUG:root:This is the line: drive:75:100
+
+DEBUG:root:We got command: drive
+DEBUG:root:We got a drive command: rawX:100.000000 and rawY:75.000000
+DEBUG:root:Forward to the Right
+DEBUG:root:Left=-75.000000 Right=-25.000000
+DEBUG:root:ScaledLeft: 206.250000 ScaledRight: 318.750000
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 
+INFO:root:We got some other kind of command
+INFO:root:Looping....
+DEBUG:root:This is the line: 
+DEBUG:root:We got command: 

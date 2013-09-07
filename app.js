@@ -16,6 +16,15 @@ var express = require('express')
 var clients = {};
 var connectCounter = 0;
 
+var spawn = require('child_process').spawn;
+
+var appHome = "/home/pi/astromesh/"
+//var appHome = "/Users/cbgrey/Development/Personal/Droids/astromesh-r2pi/"
+
+
+var driveCommand = appHome + "adafruit/Adafruit_PWM_Servo_Driver/r2drive.py";
+var stopCommand = appHome + "adafruit/Adafruit_PWM_Servo_Driver/r2drivestop.py";
+var testCommand = appHome + "adafruit/Adafruit_PWM_Servo_Driver/mactest.py";
 
 server.listen(7777,"0.0.0.0")  ;
 console.log('Server running at http://127.0.0.1:7777/');
@@ -38,6 +47,10 @@ app.configure('development', function(){
 
 app.get('/', routes.index);
 app.get('/users', user.list); 
+
+
+var driveController = spawn(testCommand);
+driveController.stdin.write('Beginning test.');
 
 
 // TODO: Should this be the main interval loop of a short time
@@ -82,8 +95,20 @@ io.sockets.on('connection',function(socket) {
 	});
 
 	socket.on('drive', function(data) { 
-		console.log('---> DRIVING. Direction: ' + data.direction + " Speed: " + data.speed); 
+		console.log('---> DRIVING. Direction: ' + data.direction + " Speed: " + data.speed);
+		if (data.speed != 0 ) {	
+			commandString = "drive:" + data.speed + ":" + data.direction + "\n";
+			driveController.stdin.write(commandString);
+		}else{
+			console.log('STOP DRIVING. \n');
+			driveController.stdin.write("drive:0:0" + "\n");
+		} 
 	});
+
+	socket.on('EMERGENCYSTOP', function(data) {
+                console.log('---> EMERGENCY STOP STOP STOP STOP');
+				driveController.stdin.write("EMERGENCYSTOP:STOP" + "\n");
+        });
 
 	socket.on('dome', function(data) { 
 		console.log('---> DOME ROTATING. Direction: ' + data.direction); 
